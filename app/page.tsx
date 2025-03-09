@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className="bg-gray-900 text-gray-100 min-h-screen font-sahel">
       <Head>
+        <meta name="google-site-verification" content="Jo1OCIfglGFj6q-ABuZdp9E5a9ue7a-RKlSERJg5J4Y" />
         <title>رزومه حامد رهیده</title>
       </Head>
 
