@@ -107,12 +107,6 @@ export default function Home() {
               <p className="mt-4">{project.desc}</p>
             </div>
           ))}
-          <a
-            href="https://hamrah2020.ir"
-            className="block text-center text-blue-400 hover:underline mt-6 text-lg font-semibold"
-          >
-            مشاهده پروژه‌ها
-          </a>
         </section>
 
         <section>
